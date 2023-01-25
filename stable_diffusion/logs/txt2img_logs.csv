@@ -1,0 +1,100 @@
+prompt,outdir,skip_grid,skip_save,ddim_steps,fixed_code,ddim_eta,n_iter,H,W,C,f,n_samples,n_rows,scale,device,from_file,seed,unet_bs,turbo,precision,format,sampler,ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+Cyberpunk style image of a Tesla car reflection in rain,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+A red cup,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,1,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, white background",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,51906,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,800009,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,381962,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,20,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,891622,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,200,200,4,8,1,0,7.5,cuda,,373264,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,20,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,383142,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,15,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,128748,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,451904,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup in the center, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,136934,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup in the center, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,238975,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup in the center, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,717963,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup in the center, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,373293,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,140089,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,640923,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,105987,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,696631,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,900582,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,176880,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,768605,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+"A red cup in the center, grey background, photorealistic",outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,182384,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,258706,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,464386,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,330887,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,206553,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,287307,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,775496,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,78995,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,353150,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,210532,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,946278,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,806291,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,767126,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,99037,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,460243,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,996080,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,439949,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,301491,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,745521,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,423295,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,157230,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,644429,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,965793,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,132623,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,15.0,cuda,,744401,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,744975,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,930330,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,731021,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,252653,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,531126,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,497618,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,757769,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,735832,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,658503,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,398730,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,492304,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,224,224,4,8,1,0,20.0,cuda,,222560,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,224,224,4,8,1,0,20.0,cuda,,868767,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,312,312,4,8,1,0,20.0,cuda,,551327,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,412,412,4,8,1,0,20.0,cuda,,86967,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,911509,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,12.0,cuda,,120065,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,12.0,cuda,,383044,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,12.0,cuda,,54360,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,419279,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,417643,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,745832,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,302108,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,409981,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,18.0,cuda,,39892,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,305619,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,113659,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,618328,1,False,autocast,png,ddim,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,912164,1,False,autocast,png,euler_a,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,538660,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,97028,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,227216,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,503075,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,150332,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,424952,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,92580,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,68021,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,773025,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,76091,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,47715,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,475209,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,390729,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,890924,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,730500,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,785249,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,2862,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,842369,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,4963,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,230812,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20.0,cuda,,363057,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,20,cuda,,162174,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt

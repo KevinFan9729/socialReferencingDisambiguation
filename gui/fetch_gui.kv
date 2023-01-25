@@ -1,0 +1,120 @@
+#:kivy 2.0
+
+<LoadingScreen>
+    name: "LoadingSCR"
+    AnchorLayout:
+        anchor_x: "center"
+        anchor_y: "center"
+        size: root.width, root.height
+        background_color: (1,1,1,0.9)
+        canvas.before:
+            Color:
+                rgba: self.background_color
+            Rectangle:
+                size: self.size
+                pos: self.pos
+                source: 'background.jpg'
+        Type_effect_lbl:
+            id: Loading_lbl
+            type_str: "loading...."
+            repeat_str: "loading...."
+            color: (0,0,0,0.8)
+            font_name: "Poppins-Bold.ttf"
+            font_size: 35
+        # Image:
+        #     source:"test.gif"
+        #     allow_stretch: True
+        #     anim_delay: -1
+        # Label:
+        #     id: Loading_lbl
+        #     text: "Fetch is thinking...."
+        #     color: (0,0,0,0.8)
+        #     font_name: "Poppins-Bold.ttf"
+        #     font_size: 35
+
+
+<InputScreen>
+    name: "InputSCR"
+    FloatLayout:
+        #orientation: 'vertical'
+        size: root.width, root.height
+        background_color: (1,1,1,0.9)
+        canvas.before:
+            Color:
+                rgba: self.background_color
+            Rectangle:
+                source: 'background.jpg'
+                size: self.size
+                pos: self.pos
+
+        Image:
+            id: logo_img
+            source:"fetch_logo.png"
+            size_hint_x: 0.45
+            #size_hint_y: None 
+            #width: 400
+            keep_ratio: True
+            pos_hint: {'x': 0.28, 'y': 0.2}
+            opacity: 0
+            
+        
+        # Type_effect_lbl:
+        #     id: Instruc_lbl
+        #     color: (0,0,0,0.8)
+        #     pos_hint: {'x': 0, 'y': 0}
+        
+        Label:
+            id: Instruc_lbl
+            text: "Type the object you want me to pick up!"
+            halign: "center"
+            color: (0,0,0,0.8)
+            font_name: "Poppins-Bold.ttf"
+            opacity: 0
+            #font_size: "15sp"
+            # pos_hint: {'x': 0, 'y': 0}
+        
+        Label:
+            id: Instruc_lbl_2
+            text: "Or speak aloud to let me know!"
+            halign: "center"
+            color: (0,0,0,0.8)
+            font_name: "Poppins-Bold.ttf"
+            opacity: 0
+            #font_size: "15sp"
+            # pos_hint: {'x': 0, 'y': 0}
+        
+        Label:
+            id: receive_lbl
+            text: "Thank you, processing your command..."
+            halign: "center"
+            color: (0,0,0,0.8)
+            font_name: "Poppins-Bold.ttf"
+            opacity: 0
+            #font_size: "15sp"
+            # pos_hint: {'x': 0, 'y': 0}
+        
+        Label:
+            id: feedback_lbl
+            text: "Please verify the following label is correct"
+            halign: "center"
+            color: (0,0,0,0.8)
+            font_name: "Poppins-Bold.ttf"
+            opacity: 0
+        
+        TextInput:
+            id: obj_input
+            multiline: False
+            size_hint_x: 0.5
+            size_hint_y: 0.05
+            hint_text: "e.g. cup"
+            pos_hint: {'x': 0.25, 'y': 0.42}
+            opacity: 0
+        Button:
+            id: submit_btn
+            text: "Submit"
+            font_name: "Poppins-Bold.ttf"
+            size_hint_x: 0.25
+            size_hint_y: 0.10
+            pos_hint: {'x': 0.38, 'y': 0.28}
+            opacity: 0
+            on_press: root.send_user_lbl()

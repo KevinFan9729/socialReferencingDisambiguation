@@ -1,0 +1,2 @@
+prompt,outdir,skip_grid,skip_save,ddim_steps,fixed_code,ddim_eta,n_iter,H,W,C,f,n_samples,n_rows,scale,device,from_file,seed,unet_bs,turbo,precision,format,sampler,ckpt
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,25,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,590218,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt

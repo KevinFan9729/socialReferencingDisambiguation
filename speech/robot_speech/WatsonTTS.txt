@@ -1,0 +1,16 @@
+curl -X POST -u "apikey:3uGX_CPwaY4dfxe0WOite82Ep8OtOnLxZsLQBkGTM6QG" ^
+--header "Content-Type: application/json" ^
+--header "Accept: audio/wav" ^
+--data "{\"text\":\"Hello! I am Fetch. I will be your robot butler today.\"}" ^
+--output intro_short.wav "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/c1fc9c03-f6fd-4a57-b23b-c78ba551aede/v1/synthesize?voice=en-GB_JamesV3Voice"
+
+
+curl -X POST -u "apikey:3uGX_CPwaY4dfxe0WOite82Ep8OtOnLxZsLQBkGTM6QG" ^
+--header "Content-Type: application/json" ^
+--header "Accept: audio/wav" ^
+--data "{\"text\":\"Picking up the target now. Please stand by.\"}" ^
+--output pickup2.wav "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/c1fc9c03-f6fd-4a57-b23b-c78ba551aede/v1/synthesize?voice=en-GB_JamesV3Voice"
+
+# scp -r /home/fetch/Documents/Kevin/speech/robot_speech fetch_admin@fetch1092:/home/fetch_admin/
+
+# scp /home/fetch/Documents/Kevin/speech/robot_speech/question2.wav fetch_admin@fetch1092:/home/fetch_admin/robot_speech
