@@ -14,7 +14,8 @@ Service robots need to have a framework to disambiguate the reference with human
 ## Base Framework Overview
 The base social referencing framework can be seen as follows:
 
-![BaseFramework](https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/6f5af757-1243-4b03-974d-43a55030a79a)
+
+![BaseFramework](https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/d5da05c7-0372-4657-9b2b-99441b41da16)
 
 
 ## GUI
