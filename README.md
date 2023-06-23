@@ -26,9 +26,7 @@ The robot can be commanded with either speech or keyboard input; the GUI will au
 ## Demo Video
 
 
-
-https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/34ba1e30-10d8-459e-bf03-48f3f9dd1623
-
+https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/1257b12c-6478-4ba0-8d74-db9374bf9827
 
 
 #### Code share for the corresponding accepted paper to ICRA 2023 (the 40th IEEE Conference on Robotics and Automation)
