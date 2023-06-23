@@ -26,7 +26,8 @@ The robot can be commanded with either speech or keyboard input; the GUI will au
 ## Demo Video
 
 
-https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/11c00f2c-3c4d-4b8d-a6fd-624836cbe87c
+
+https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/34ba1e30-10d8-459e-bf03-48f3f9dd1623
 
 
 
