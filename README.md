@@ -1,7 +1,7 @@
 # Social Referencing Disambiguation
 A computational framework that enables domestic service robots to disambiguate challenging situations with social referencing.
 
-## Object fetching task in homes
+## Object Fetching Task in Homes
 Domestic service robots can encounter various ambiguities in home environments.
 Some sources of ambiguity:
 <ul>
@@ -22,6 +22,11 @@ The base social referencing framework can be seen as follows:
 The robot can be commanded with either speech or keyboard input; the GUI will automatically display what the robot heard and provide a chance for the user to correct the label in the case of transcription issues.
 
 ![fetch_gui](https://user-images.githubusercontent.com/60720175/214482543-c1f38ab1-488c-4c6a-b670-afd8f0eab282.gif)
+
+## Demo Video
+
+
+https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/11c00f2c-3c4d-4b8d-a6fd-624836cbe87c
 
 
 
