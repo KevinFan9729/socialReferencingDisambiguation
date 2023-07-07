@@ -23,7 +23,7 @@ The robot can be commanded with either speech or keyboard input; the GUI will au
 
 ![fetch_gui](https://user-images.githubusercontent.com/60720175/214482543-c1f38ab1-488c-4c6a-b670-afd8f0eab282.gif)
 
-## Attention Assement Demo
+## Attention Assessment Demo
 
 https://github.com/KevinFan9729/socialReferencingDisambiguation/assets/60720175/e9137e56-8aed-4bc6-8fcc-b636cac212b5
 
